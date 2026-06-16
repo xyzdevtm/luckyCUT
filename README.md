@@ -5,7 +5,7 @@
 
 ## نصب
 ```bash
-git clone https://github.com/[USERNAME]/lucky-scale-installer.git
-cd lucky-scale-installer
+git clone https://github.com/xyzdevtm/luckyCUT.git
+cd luckyCUT
 chmod +x install.sh
 ./install.sh
